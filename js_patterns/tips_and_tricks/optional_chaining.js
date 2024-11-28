@@ -8,6 +8,7 @@
  * (settings in this case) is undefined or null. This makes it easier to work with unpredictable 
  * or incomplete data, especially from APIs.
  * 
+ * https://dev.to/hmpljs/10-javascript-tips-and-tricks-that-will-be-useful-47fa?context=digest
  */
 
 

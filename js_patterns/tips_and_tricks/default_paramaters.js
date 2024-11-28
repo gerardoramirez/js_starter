@@ -6,6 +6,8 @@
  * back to the default. This is particularly useful for handling optional inputs, reducing the need for manual checks or fallback 
  * logic inside the function.
  * 
+ * https://dev.to/hmpljs/10-javascript-tips-and-tricks-that-will-be-useful-47fa?context=digest
+ * 
  */
 
 function greet(name = "Guest") {
